@@ -65,6 +65,14 @@ Before you begin, ensure you have met the following requirements:
 
 6. You can modify the generated code in the editors, and the preview will update in real-time.
 
+## Screenshots
+
+### Landing Page
+![Landing Screen](landing-screen.png)
+
+### Generated Site
+![Generated Site](generated-site.png)
+
 ## Contributing
 
 Contributions to the Real Time React Component Generator are welcome. Please follow these steps to contribute:
